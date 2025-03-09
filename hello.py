@@ -3,6 +3,6 @@ def more_hello():
 
 
 # NonSense code
-var = 1
-var == var
-var = var
+#var = 1
+#var == var
+#var = var
